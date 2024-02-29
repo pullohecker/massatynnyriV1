@@ -1,0 +1,9 @@
+python3 massahiisi.py $1&
+python3 massahiisi.py $2&
+python3 massahiisi.py $3&
+python3 massahiisi.py $4&
+python3 massahiisi.py $5&
+python3 massahiisi.py $6&
+python3 massahiisi.py $7&
+python3 massahiisi.py $8&
+python3 massahiisi.py $9&
